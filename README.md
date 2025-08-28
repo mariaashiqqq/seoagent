@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+
 # SEO Multi-Agent Analyzer (Single File Version)
 
 This project analyzes a website for:
@@ -9,4 +9,6 @@ This project analyzes a website for:
 ## Setup
 ```bash
 pip install -r requirements.txt
+<img width="946" height="588" alt="image" src="https://github.com/user-attachments/assets/071829aa-ca4d-47d9-b14b-ed9e619f4668" />
+
 
